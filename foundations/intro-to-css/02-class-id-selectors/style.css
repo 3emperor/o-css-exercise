@@ -1,0 +1,17 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.odd.rare {
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.186);
+}
+#no2 {
+    color: blue;
+    font-size: 36px;
+}
+#no4 {
+    background-color: lightgreen;    
+    font-weight: bold;
+    font-size: 24px;
+}
